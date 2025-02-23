@@ -24,6 +24,6 @@
 
 ## 📫 Let's Connect
 
-<a href="https://www.linkedin.com/in/mohamed-abd-elhakeem-745624259/" target="_blank"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abd-elhakeem-745624259)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohamed.AbdelhakeemX@gmail.com)
 
 Feel free to explore my repositories, provide feedback, or reach out for collaboration and discussions!
