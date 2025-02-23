@@ -1,4 +1,4 @@
-# Mohamed-Abdelhakeem
+# Mohamed Abdelhakeem
 
 <h3 align="center">
   Welcome to Mohamed Abdelhakeem's profile!
