@@ -11,15 +11,14 @@
 
 ## 🔧 Skills
 
-- Languages: C++ , C#, Java, Python
+- Languages: C++ , C#, Java, Python, HTML, CSS
 - DataBase: MySQL
 - Technical: Data Structures and Algorithms, Object-Oriented Programming (OOP)
 
 
 ## 🌱 Learning & Interests
 
-- Currently diving deep into software testing methodologies and tools, focusing on building robust and reliable software.
-- Exploring code optimization techniques to enhance performance and efficiency.
+- Currently diving deep into Web development methodologies and tools.
 - Passionate about problem-solving and eager to learn new technologies that push the boundaries of software development.
 
 ## 📫 Let's Connect
