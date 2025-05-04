@@ -11,9 +11,8 @@
 
 ## 🔧 Skills
 
-- Languages: C++ , C#, Java, Python, HTML, CSS
-- DataBase: MySQL
-- Technical: Data Structures and Algorithms, Object-Oriented Programming (OOP)
+- Languages:  C++, Java, Python, HTML, CSS, SQL
+- Technical: Data Structures and Algorithms, Object-Oriented Programming (OOP), Databases, Docker
 
 
 ## 🌱 Learning & Interests
