@@ -12,7 +12,7 @@
 ## 🔧 Skills
 
 - Languages:  C++, Java, Python, HTML, CSS, SQL
-- Technical: Data Structures and Algorithms, Object-Oriented Programming (OOP), Databases, Docker
+- Technical: Data Structures and Algorithms, Object-Oriented Programming (OOP), Databases, Docker, Django, Flask, Bootstrap, MySQL
 
 
 ## 🌱 Learning & Interests
