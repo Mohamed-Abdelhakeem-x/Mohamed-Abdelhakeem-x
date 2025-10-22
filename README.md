@@ -20,8 +20,9 @@
 
 ## 🌱 Learning & Interests
 
-- Currently diving deep into Web development methodologies and tools.
-- Passionate about problem-solving and eager to learn new technologies that push the boundaries of software development.
+- Currently diving deep into Backend Development with Python, Django, and REST APIs.
+- Strengthening skills in Data Structures and Algorithms (DSA) and actively participating in Competitive Programming (CP).
+- Passionate about solving complex problems and building efficient, scalable software solutions.
 
 ## 📫 Let's Connect
 
